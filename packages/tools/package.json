@@ -6,7 +6,7 @@
     "author": "nirvana_x",
     "license": "MIT",
     "main": "dist/index.js",
-    "types": "dist/types/src/index.d.ts",
+    "types": "dist/types/index.d.ts",
     "files": [
         "dist"
     ],
